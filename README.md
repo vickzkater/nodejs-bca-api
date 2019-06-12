@@ -97,3 +97,6 @@ ErrorMessage: 'Invalid TransactionDate'
 It is a `false positive`, so don't worry. But if you using `real API config, it works`.
 
 This error cause by Sandbox only accept specific time, not using the real time.
+
+### Credits
+Code base from https://github.com/niveksalim/nodebca
